@@ -1,0 +1,438 @@
+09/18/2020 03:58:47 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 03:58:47 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 03:58:47 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 03:58:50 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 03:58:50 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 03:58:53 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 03:58:53 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 03:58:53 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 03:58:53 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 03:58:56 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 03:59:03 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:01:37 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:01:37 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:01:37 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:01:40 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:01:40 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:01:43 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:01:43 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:01:43 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:01:43 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:01:46 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:01:57 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:20:41 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:20:41 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:20:41 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:20:44 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:20:44 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:20:47 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:20:47 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:20:47 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:20:47 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:20:50 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:20:59 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:21:12 PM: INFO: There is no [win64] geckodriver for browser  in cache
+09/18/2020 04:21:13 PM: INFO: Getting latest mozilla release info for v0.27.0
+09/18/2020 04:21:13 PM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip
+09/18/2020 04:21:15 PM: INFO: Driver has been saved in cache [C:\Users\okeyb\.wdm\drivers\geckodriver\win64\v0.27.0]
+09/18/2020 04:21:18 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\geckodriver\win64\v0.27.0\geckodriver.exe] found in cache
+09/18/2020 04:23:59 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\geckodriver\win64\v0.27.0\geckodriver.exe] found in cache
+09/18/2020 04:24:07 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:24:07 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:24:12 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:24:12 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\geckodriver\win64\v0.27.0\geckodriver.exe] found in cache
+09/18/2020 04:24:20 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:24:30 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:26:56 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:26:56 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:26:56 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:26:59 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:26:59 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:27:02 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:27:02 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:27:02 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:27:02 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:27:05 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:27:15 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:30:10 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:30:10 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:30:10 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:30:10 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:30:10 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:30:10 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:30:13 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:30:13 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:30:13 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:30:16 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:30:27 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:39:29 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:39:29 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:39:29 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:39:29 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:39:29 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:39:32 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:39:32 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:39:32 PM: INFO: ******************** Verifying Login Test ********************
+09/18/2020 04:39:35 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:39:41 PM: INFO: ******************** Login test Passed********************
+09/18/2020 04:43:59 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:43:59 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:43:59 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 04:43:59 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 04:44:00 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:44:00 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 04:44:03 PM: INFO: ******************** Test_OO1_Login Started ********************
+09/18/2020 04:44:03 PM: INFO: ******************** Verifying Home Page Title********************
+09/18/2020 04:44:06 PM: INFO: ******************** Verifying Home Page Title test passed********************
+09/18/2020 04:44:10 PM: INFO: ******************** Login test Passed********************
+09/18/2020 08:00:25 PM: INFO: Current google-chrome version is 85.0.4183
+09/18/2020 08:00:25 PM: INFO: Get LATEST driver version for 85.0.4183
+09/18/2020 08:00:25 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/18/2020 08:00:28 PM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/18/2020 08:00:28 PM: INFO: ******************** Verifying Login DDT Test ********************
+09/18/2020 08:00:42 PM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:19:57 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:19:57 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:19:57 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:19:57 AM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/85.0.4183.87/chromedriver_win32.zip
+09/19/2020 11:19:58 AM: INFO: Driver has been saved in cache [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87]
+09/19/2020 11:20:01 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:20:01 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:20:15 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:22:53 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:22:53 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:22:53 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:22:56 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:22:56 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:23:07 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:25:46 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:25:46 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:25:46 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:25:49 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:25:49 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:26:01 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:26:19 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:29:56 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:29:56 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:29:56 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:29:59 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:29:59 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:30:10 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:31:19 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:31:19 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:31:19 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:31:22 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:31:22 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:31:34 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:31:53 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:34:15 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:34:15 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:34:15 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:34:19 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:34:19 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:34:30 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:35:00 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:35:00 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:35:00 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:35:21 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:35:21 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:35:21 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:35:25 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:35:25 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:35:37 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:36:40 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:36:40 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:36:40 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:36:43 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:36:43 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:36:54 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:37:54 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:37:54 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:37:54 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:37:57 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:37:57 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:38:09 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:38:29 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:39:25 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:39:25 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:39:25 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:39:28 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:39:28 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:39:39 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:40:36 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:40:36 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:40:36 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:40:40 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:40:40 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:40:50 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:41:13 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:42:21 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:42:21 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:42:21 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:42:24 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:42:24 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:42:34 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:43:12 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:43:39 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:43:39 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:43:39 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:43:42 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:43:42 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:43:52 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:44:17 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:44:17 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:44:17 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:44:20 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:44:20 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:44:32 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:48:50 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:48:50 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:48:50 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:48:53 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:48:53 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:49:05 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:49:51 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:52:50 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:52:50 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:52:50 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:52:53 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:52:53 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:53:05 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:53:46 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:54:57 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:54:57 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:54:57 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:55:00 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:55:00 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:55:12 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:55:50 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:56:17 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:56:17 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:56:17 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:56:20 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:56:20 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:56:32 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:57:11 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 11:59:05 AM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 11:59:05 AM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 11:59:05 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 11:59:08 AM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 11:59:08 AM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 11:59:19 AM: INFO: ******************** Login test Passed ********************
+09/19/2020 11:59:57 AM: INFO: ********** End of Data Driven Test **********
+09/19/2020 12:00:15 PM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 12:00:15 PM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 12:00:15 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 12:00:18 PM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 12:00:18 PM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 12:00:29 PM: INFO: ******************** Login test Passed ********************
+09/19/2020 12:01:07 PM: INFO: ********** End of Data Driven Test **********
+09/19/2020 12:03:23 PM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 12:03:23 PM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 12:03:23 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 12:03:26 PM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 12:03:26 PM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 12:03:38 PM: INFO: ******************** Login test Passed ********************
+09/19/2020 12:04:19 PM: INFO: ********** End of Data Driven Test **********
+09/19/2020 12:05:49 PM: INFO: Current google-chrome version is 85.0.4183
+09/19/2020 12:05:49 PM: INFO: Get LATEST driver version for 85.0.4183
+09/19/2020 12:05:49 PM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/19/2020 12:05:52 PM: INFO: ******************** Test_OO2_DDT_Login ********************
+09/19/2020 12:05:52 PM: INFO: ******************** Verifying Login DDT Test ********************
+09/19/2020 12:06:04 PM: INFO: ******************** Login test Passed ********************
+09/19/2020 12:06:15 PM: INFO: ******************** Invalid Login test Passed ********************
+09/19/2020 12:06:26 PM: INFO: ******************** Invalid Login test Passed ********************
+09/19/2020 12:06:37 PM: INFO: ******************** Invalid Login test Passed ********************
+09/19/2020 12:06:42 PM: INFO: ********** End of Data Driven Test **********
+09/21/2020 04:51:56 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 04:51:56 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 04:51:56 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 04:51:56 AM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/85.0.4183.87/chromedriver_win32.zip
+09/21/2020 04:51:57 AM: INFO: Driver has been saved in cache [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87]
+09/21/2020 04:52:03 AM: INFO: ******************** Test_OO1_Login Started ********************
+09/21/2020 04:52:03 AM: INFO: ******************** Verifying Home Page Title********************
+09/21/2020 04:52:06 AM: INFO: ******************** Verifying Home Page Title test passed********************
+09/21/2020 04:52:06 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 04:52:06 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 04:52:06 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 04:52:09 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 04:52:16 AM: INFO: ******************** Login test Passed********************
+09/21/2020 05:09:00 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:09:00 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:09:00 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:09:03 AM: INFO: ******************** Test_OO1_Login Started ********************
+09/21/2020 05:09:03 AM: INFO: ******************** Verifying Home Page Title********************
+09/21/2020 05:09:06 AM: INFO: ******************** Verifying Home Page Title test passed********************
+09/21/2020 05:09:06 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:09:06 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:09:06 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:09:10 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 05:09:16 AM: INFO: ******************** Login test Passed********************
+09/21/2020 05:13:18 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:13:18 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:13:18 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:13:21 AM: INFO: ******************** Test_OO1_Login Started ********************
+09/21/2020 05:13:21 AM: INFO: ******************** Verifying Home Page Title********************
+09/21/2020 05:13:24 AM: INFO: ******************** Verifying Home Page Title test passed********************
+09/21/2020 05:13:24 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:13:24 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:13:24 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:13:27 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 05:13:34 AM: INFO: ******************** Login test Passed********************
+09/21/2020 05:16:11 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:16:11 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:16:11 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:16:14 AM: INFO: ******************** Test_OO1_Login Started ********************
+09/21/2020 05:16:14 AM: INFO: ******************** Verifying Home Page Title********************
+09/21/2020 05:16:18 AM: INFO: ******************** Verifying Home Page Title test passed********************
+09/21/2020 05:16:18 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:16:18 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:16:18 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:16:21 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 05:16:27 AM: INFO: ******************** Login test Passed********************
+09/21/2020 05:17:34 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:17:34 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:17:34 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:17:37 AM: INFO: ******************** Test_OO1_Login Started ********************
+09/21/2020 05:17:37 AM: INFO: ******************** Verifying Home Page Title********************
+09/21/2020 05:17:40 AM: INFO: ******************** Verifying Home Page Title test passed********************
+09/21/2020 05:17:40 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:17:40 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:17:40 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:17:43 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 05:17:48 AM: INFO: ******************** Login test Passed********************
+09/21/2020 05:18:19 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:18:19 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:18:19 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:18:22 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:18:41 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:21:12 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:21:12 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:21:12 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:21:15 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:21:36 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:24:01 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:24:01 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:24:01 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:24:05 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:24:28 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:30:21 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:30:21 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:30:21 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:30:24 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:30:43 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:33:07 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:33:07 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:33:07 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:33:10 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:33:31 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:35:27 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:35:27 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:35:27 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:35:30 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:35:51 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:39:08 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:39:08 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:39:08 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:39:11 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:39:31 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:39:46 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 05:39:46 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 05:44:07 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 05:44:07 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 05:44:07 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 05:44:11 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 05:44:31 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 05:44:45 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 05:44:45 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 06:02:43 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:02:43 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:02:43 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:02:46 AM: INFO: ************* SearchCustomerByEmail_004 **********
+09/21/2020 06:02:54 AM: INFO: ************* Login Successful **********
+09/21/2020 06:02:54 AM: INFO: ******* Starting Search Customer By Email **********
+09/21/2020 06:02:56 AM: INFO: ************* searching customer by emailID **********
+09/21/2020 06:03:01 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+09/21/2020 06:07:45 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:07:45 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:07:45 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:07:49 AM: INFO: ************* SearchCustomerByEmail_004 **********
+09/21/2020 06:07:58 AM: INFO: ************* Login Successful **********
+09/21/2020 06:07:58 AM: INFO: ******* Starting Search Customer By Name **********
+09/21/2020 06:07:59 AM: INFO: ************* Searching Customer by Name **********
+09/21/2020 06:08:04 AM: INFO: ***************  TC_SearchCustomerByEmail_005 Finished  *********** 
+09/21/2020 06:08:13 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:08:13 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:08:13 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:08:16 AM: INFO: ************* SearchCustomerByEmail_004 **********
+09/21/2020 06:08:26 AM: INFO: ************* Login Successful **********
+09/21/2020 06:08:26 AM: INFO: ******* Starting Search Customer By Name **********
+09/21/2020 06:08:27 AM: INFO: ************* Searching Customer by Name **********
+09/21/2020 06:08:32 AM: INFO: ***************  TC_SearchCustomerByEmail_005 Finished  *********** 
+09/21/2020 06:24:49 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:24:49 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:24:49 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:24:53 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 06:25:12 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 06:25:27 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 06:25:27 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 06:25:27 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:25:27 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:25:27 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:25:30 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 06:25:36 AM: INFO: ******************** Login test Passed********************
+09/21/2020 06:29:59 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:29:59 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:29:59 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:30:03 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 06:30:26 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 06:30:43 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 06:30:43 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 06:30:43 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:30:43 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:30:43 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:30:46 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 06:30:52 AM: INFO: ******************** Login test Passed********************
+09/21/2020 06:57:43 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:57:43 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:57:43 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:57:46 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 06:58:07 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 06:58:21 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 06:58:26 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 06:58:26 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 06:58:26 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 06:58:26 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 06:58:29 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 06:58:35 AM: INFO: ******************** Login test Passed********************
+09/21/2020 07:03:15 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:03:15 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:03:15 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 07:03:18 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 07:03:38 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 07:03:53 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 07:03:57 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 07:03:57 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:03:57 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:03:57 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 07:04:00 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 07:04:06 AM: INFO: ******************** Login test Passed********************
+09/21/2020 07:09:34 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:09:34 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:09:34 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 07:09:37 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 07:09:57 AM: INFO: ******************** Providing Customer Information ********************
+09/21/2020 07:10:12 AM: INFO: ********* Add customer Test Passed *********
+09/21/2020 07:10:12 AM: INFO: ******* Ending Add customer test **********
+09/21/2020 07:10:12 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:10:12 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:10:12 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 07:10:15 AM: INFO: ******************** Verifying Login Test ********************
+09/21/2020 07:10:26 AM: INFO: ******************** Login test Passed********************
+09/21/2020 07:10:47 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:10:47 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:10:47 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache
+09/21/2020 07:10:50 AM: INFO: ******************** Test_003_AddCustomer ********************
+09/21/2020 07:10:51 AM: INFO: Current google-chrome version is 85.0.4183
+09/21/2020 07:10:51 AM: INFO: Get LATEST driver version for 85.0.4183
+09/21/2020 07:10:51 AM: INFO: Driver [C:\Users\okeyb\.wdm\drivers\chromedriver\win32\85.0.4183.87\chromedriver.exe] found in cache

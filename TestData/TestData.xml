@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<loginCredentials>
+
+	<userOne username="admin@yourstore.com" password="admin" output="Pass"/>
+	<userTwo username="admin@yourstore.com" password="adm" output="Fail"/>
+	<userThree username="adm@yourstore.com" password="admin" output="Fail"/>
+	<userFour username="adm@yourstore.com" password="adm" output="Fail"/>
+
+</loginCredentials>
