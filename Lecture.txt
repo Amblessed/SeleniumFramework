@@ -52,8 +52,7 @@ am_bright----- Jenkins##++29
 Pushing the Code to Git and Github
 1) Create local git repository for your project: git init --> Used to create the local repository
 2) Create a repository in Github: https://github.com/Amblessed/SeleniumFramework.git
-
-git config --global user.name "bright"
-git config --global user.email "brighthamza9@yahoo.com"
-
-git add -A
+3) git config --global user.name "bright"
+   git config --global user.email "brighthamza9@yahoo.com"
+4) git add -A
+5) Commit the code into git repository
