@@ -4,7 +4,6 @@ import os
 from utilities.Constants import Constants
 
 config = configparser.RawConfigParser()
-# config.read(".\\Configurations\\config.ini")  Path(__file__).parent.parent
 ini_file = os.path.join(Constants.PARENTDIRECTORY, "Configurations", "config.ini")
 config.read(ini_file)
 

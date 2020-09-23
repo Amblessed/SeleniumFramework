@@ -46,7 +46,7 @@ Git is a revision control system used to track changes in computer files. It's a
 while coordinating work remotely on those files with others. GitHub is a hosting service for git repositories. Git is the
 tool, while GitHub is the service to use git.
 
-java -jar jenkins.war
+java -jar jenkins.war --httpPort=9090
 am_bright----- Jenkins##++29
 
 Pushing the Code to Git and Github
