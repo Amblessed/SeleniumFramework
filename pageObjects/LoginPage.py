@@ -1,5 +1,3 @@
-from selenium import webdriver
-
 
 class LoginPage:
     WebElement_Username_id = "Email"

@@ -29,4 +29,3 @@ class ReadConfig:
     def readErrorMessage():
         error = config.get("common values", "error_message")
         return error
-
