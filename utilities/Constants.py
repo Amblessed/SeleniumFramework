@@ -26,5 +26,5 @@ class Constants:
     def random_email_generator():
         first_part = Constants.get_random_string(4)
         second_part = Constants.get_random_string(6)
-        email = first_part + "." + second_part + "@gmail.com"
-        return email
+        return first_part + "." + second_part + "@gmail.com"
+

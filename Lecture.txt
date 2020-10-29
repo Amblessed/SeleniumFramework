@@ -52,7 +52,20 @@ am_bright----- Jenkins##++29
 Pushing the Code to Git and Github
 1) Create local git repository for your project: git init --> Used to create the local repository
 2) Create a repository in Github: https://github.com/Amblessed/SeleniumFramework.git
-3) git config --global user.name "bright"
+3) git remote add origin https://github.com/Amblessed/SeleniumFramework.git
+4) git config --global user.name "bright"
    git config --global user.email "brighthamza9@yahoo.com"
-4) git add -A
-5) Commit the code into git repository
+
+  Check status
+  git status
+
+5) git add -A           this would all the codes to the staging
+
+  Check status
+  git status
+
+6) Commit the code into git repository
+ git commit - m "My first project commit"
+
+
+7) git push -u origin master  this would push the code from the local repository to github

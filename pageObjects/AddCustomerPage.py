@@ -64,7 +64,6 @@ class AddCustomer:
             self.driver.find_element_by_xpath(self.CustomerInfo_GenderMale_xpath).click()
 
     def inputDateOfBirth(self, dob):
-        # self.driver.find_element_by_id(self.CustomerInfo_FirstName_xpath).clear()
         self.driver.find_element_by_xpath(self.CustomerInfo_DateOfBirth_xpath).send_keys(dob)
 
     def inputCompanyName(self, companyName):
