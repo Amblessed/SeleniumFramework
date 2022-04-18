@@ -69,3 +69,39 @@ Pushing the Code to Git and Github
 
 
 7) git push -u origin master  this would push the code from the local repository to github
+
+
+***What is a Framework***
+Framework is an organized way of maintaining automation files
+In the framework, all the files will communicate with each other to perform certain task.
+
+***Objective / Goals***
+1) Re-usability
+2) Maintainability
+
+***Types***
+1) Built-in Frameworks: pytest, Robot Framework, unittest etc
+2) Customized/User Defined Frameworks: Data Driven Framework, keyword Driven Framework, Hybrid Driven Framework
+
+***Phases in creating a Framework***
+1) Analyze the application, technology and skill set of the team, choose the test cases
+2) Design and implementation of framework
+3) Execution
+4) Maintenance (Version Control System)
+
+Front-end: https://demo.nopcommerce.com
+Back-end: https://admin-demo.nopcommerce.com
+
+
+***Selenium Hybrid Framework***
+1) Create a new Project and install the required packages/plugins
+(Python, Selenium, PyTest, Page Object Model, HTML Reports)
+--Selenium: Selenium Libraries
+--Pytest: Python UnitTest Framework
+--Pytest-html: Pytest HTML Reports
+--Pytest-xdist: MXExcel Support
+--Allure-pytest: to generate allure reports
+
+2) Create a Folder Structure(Project Name)
+pageObjects(package), testCases(package), utilities(Package), TestData(Folder), Configurations(Folder), Logs(Folder), Screenshots(Folder)
+Reports(Folder), run.bat

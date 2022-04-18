@@ -1,4 +1,6 @@
 import time
+
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
 from utilities.Constants import Constants
 
@@ -86,7 +88,7 @@ class AddCustomer:
                 self.driver.find_element_by_xpath(
                     "//ul[@id='SelectedCustomerRoleIds_taglist']/li/span[@title='delete']").click()
                 self.listItem = self.driver.find_element_by_xpath(self.CustomerInfo_CustomerRoles_Guests_xpath)
-            except Exception as io:
+            except NoSuchElementException as io:
                 self.listItem = self.driver.find_element_by_xpath(self.CustomerInfo_CustomerRoles_Guests_xpath)
         else:
             self.listItem = self.driver.find_element_by_xpath(self.CustomerInfo_CustomerRoles_Guests_xpath)
